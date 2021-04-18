@@ -14,9 +14,9 @@ Instainsane is an Shell Script to perform multi-threaded brute force attack agai
 - Default password list (best +39k 8 letters)
 - Check and Install all dependencies
 
-### Usage:
+### Usage: 
 ```
-git clone https://github.com/thelinuxchoice/instainsane
+git clone https://github.com/TheTeamXplus2/InstaInsane
 cd instainsane
 chmod +x instainsane.sh
 sudo ./instainsane.sh
@@ -28,5 +28,5 @@ sudo ./instainsane.sh
 chmod +x install.sh
 sudo ./install.sh
 ```
-Как использовать смотри  у меня на канале(ссылка више)
-The script uses Instagram-py algorithm (Python),
+How use see on my YouTube channel(link above)
+The script uses Instagram-py algorithm (Python3),
